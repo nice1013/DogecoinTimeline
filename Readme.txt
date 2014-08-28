@@ -1,8 +1,9 @@
-Dogecoin Timeline -- History of Dogecoin
+Dogecoin Timeline -- The History of Dogecoin
 
--Created By Ed Evanosich
+-Created For Dogecoin
 
-All files are free to use and change. 
+
+All files are free to use and Alter. 
 
 
 
@@ -19,25 +20,50 @@ Two Ways:
 		
 	1) QuickStart ---
 
-	Inside the DogecoinTimeline Folder, there is another file called QuickStart.txt
+	Open the DogecoinTimeline Folder. Inside There is a file called QuickStart.txt
 	
 	QuickStart.txt contains a <Iframe> with the most current Dogecoin timeline already set up. 
 	
 	Copy this to any Html file, and you are ready to go. 
 
 
+	2) Using Other Links -- 
+
+	-Open the DogecoinTimeline folder. 
+	
+	-Open links.txt
+	
+	-Copy any link you want
+
+	-Now go to http://timeline.knightlab.com 
+	
+	-Create a new timeline. Enter the url you copied from google drive into the box. 
+	
+	-Copy the generated Iframe into your html. 
+	 
+		
 
 
-	2) Custom Route --
+	3) Creating and Using Your own URL --
 
-	Inside the DogecoinTimeline Folder, there is a file called. Links.txt
+	-Go to google drive, and import a new document. 
 
-	Links.txt Contains URLs to publicly available Spreadsheets on the google drive.
+	-Navigate to the DogecoinTimeline folder. 
 
-	Using One of these Url's, you can customize the timeline by going to 
-	'http://timeline.knightlab.com/' and Pasting it into the URL box.
+	-Find DT_8-24-12 and import the file. 
 
-	Below that, there will be your generated Iframe for your timeline. Copy that to your site. 
+	-Make whatever changes you want. 
+
+	-In google drive - Click File -> Publish -> Copy the url in the textbox. 
+
+	-(FYI: You can Submit your changes to the DogecoinTimeline) 
+	
+	-Now go to http://timeline.knightlab.com 
+	
+	-Create a new timeline. Enter the url you copied from google drive into the box. 
+	
+	-Copy the generated Iframe into your html. 
+	
 
 
 
