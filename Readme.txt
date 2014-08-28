@@ -50,7 +50,7 @@ Two Ways:
 
 	-Navigate to the DogecoinTimeline folder. 
 
-	-Find DT_8-24-12 and import the file. 
+	-Open Timeline folder and Find DT_8-24-12 and import the file. 
 
 	-Make whatever changes you want. 
 
