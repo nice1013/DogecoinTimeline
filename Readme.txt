@@ -26,6 +26,7 @@ How to Use:
 	</iframe>
 
 
+	-- You're Done!
 
 
 	2) Using Other Links -- 
@@ -51,7 +52,7 @@ How to Use:
 
 	-Navigate to the DogecoinTimeline folder. 
 
-	-Open Timeline folder and Find DT_8-24-12 and import the file. 
+	-Open Timeline folder and Find DT_8-24-14 and import the file. 
 
 	-Make whatever changes you want. 
 
