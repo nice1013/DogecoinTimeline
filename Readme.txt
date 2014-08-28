@@ -20,11 +20,14 @@ Two Ways:
 		
 	1) QuickStart ---
 
-	Open the DogecoinTimeline Folder. Inside There is a file called QuickStart.txt
-	
-	QuickStart.txt contains a <Iframe> with the most current Dogecoin timeline already set up. 
-	
-	Copy this to any Html file, and you are ready to go. 
+	-- Copy this Iframe to your Html page. 
+
+
+	<iframe style="overflow:visible;"
+	src=http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner-	lines&lang=en&height=100' width='100%' height="100%" frameborder='0'>
+	</iframe>
+
+
 
 
 	2) Using Other Links -- 
