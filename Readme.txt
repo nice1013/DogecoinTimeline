@@ -21,9 +21,7 @@ How to Use:
 	-- Copy this Iframe to your Html page. 
 
 
-	<iframe style="overflow:visible;"
-	src=http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner-lines&lang=en&height=100' width='100%' height="100%" frameborder='0'>
-	</iframe>
+	<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner&lang=en' width='100%' height='100%' frameborder='0'></iframe>
 
 
 	-- You're Done!
