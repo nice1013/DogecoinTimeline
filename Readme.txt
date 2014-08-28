@@ -15,8 +15,6 @@ Dogecoin timeline is an Excel or Google Spreadsheet file containing list of all 
 
 
 How to Use:
-
-Two Ways:
 		
 	1) QuickStart ---
 
@@ -24,7 +22,7 @@ Two Ways:
 
 
 	<iframe style="overflow:visible;"
-	src=http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner-	lines&lang=en&height=100' width='100%' height="100%" frameborder='0'>
+	src=http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner-lines&lang=en&height=100' width='100%' height="100%" frameborder='0'>
 	</iframe>
 
 
