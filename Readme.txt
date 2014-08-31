@@ -1,4 +1,8 @@
-Dogecoin Timeline -- The History of Dogecoin
+Dogecoin Timeline -- The History of dogecoin 
+
+	1) Dogecoin Highlights -- According to 4moves -- The successes of Dogecoin.  
+
+	2) Dogecoin Event Logs -- Any event that has to do with dogecoin. 
 
 -Created For Dogecoin
 
@@ -16,15 +20,44 @@ Dogecoin timeline is an Excel or Google Spreadsheet file containing list of all 
 
 How to Use:
 		
-	1) QuickStart ---
-
-	-- Copy this Iframe to your Html page. 
+	---) QuickStart (--- 
 
 
-	<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner&lang=en' width='100%' height='100%' frameborder='0'></iframe>
 
 
-	-- You're Done!
+
+
+
+
+	1) Dogecoin Highlights [Start - 8/30/14]
+
+		-- Copy this <iframe> to your Html page. 
+
+
+
+
+		<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner&lang=en' width='100%' height='100%' frameborder='0'></iframe>
+
+
+		-- You're Done!
+
+
+
+
+	2) Dogecoin Event Log [Work in Progress]
+
+		--Copy <iframe> to html page. 
+
+
+		<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdHNhTlVnRXRPcnBUYXdMZURweXJhUnc&font=Bevan-PotanoSans&maptype=toner&lang=en' width='100%' height='100%' frameborder='0'></iframe>
+		
+
+
+		--You're done. 
+
+
+
+
 
 
 	2) Using Other Links -- 

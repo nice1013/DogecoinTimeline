@@ -1,4 +1,9 @@
 Links -- Live Google Spreadsheet Urls for Dogecoin Timelines.
 
 Url 1) https://docs.google.com/spreadsheet/pub?key=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&output=html
-User Hosting) 4moves
+
+User Hosting) Dogecoin Highlights - 4moves
+
+Url 2) https://docs.google.com/spreadsheet/pub?key=0At3GjVZJ_LVrdHNhTlVnRXRPcnBUYXdMZURweXJhUnc&output=html
+
+User Hosting) Dogecoin Event Log - 4moves
