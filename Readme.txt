@@ -10,22 +10,21 @@ Dogecoin Timeline -- The History of dogecoin
 All files are free to use and Alter. 
 
 
+Dogecoin timeline is a Google Spreadsheet file containing list of all the dogecoin events. 
+
 
 
 ----------------------------------------------
 ----------------------------------------------
 
-Dogecoin timeline is an Excel or Google Spreadsheet file containing list of all the dogecoin events. 
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 
 How to Use:
 		
-	---) QuickStart (--- 
-
-
-
-
-
+	---) QuickStart : How to put timeline on your website (--- 
 
 
 
@@ -44,6 +43,7 @@ How to Use:
 
 
 
+
 	2) Dogecoin Event Log [Work in Progress]
 
 		--Copy <iframe> to html page. 
@@ -56,11 +56,13 @@ How to Use:
 		--You're done. 
 
 
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 
 
 
-	2) Using Other Links -- 
+	>>>>) Using Other Links -- 
 
 	-Open the DogecoinTimeline folder. 
 	
@@ -77,7 +79,7 @@ How to Use:
 		
 
 
-	3) Creating and Using Your own URL --
+	>>>>) Creating and Using Your own URL --
 
 	-Go to google drive, and import a new document. 
 
