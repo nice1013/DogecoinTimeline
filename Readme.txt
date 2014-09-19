@@ -1,10 +1,21 @@
+Created for Dogecoin by 4moves
+
+If you like the Dogecoin Timeline and you can show your appreciation by Tipping Dogecoin to 4moves @ DMhq1vJMkCbd3PH8sqRxT6vgy62cJMDu9R
+
+
+
+
+
+
 Dogecoin Timeline -- The History of dogecoin 
 
 	1) Dogecoin Highlights -- According to 4moves -- The successes of Dogecoin.  
 
 	2) Dogecoin Event Logs -- Any event that has to do with dogecoin. 
 
--Created For Dogecoin
+	3) Dogecoin Future Events -- Ongoing and Future events that involve Dogecoin.
+
+
 
 
 All files are free to use and Alter. 
