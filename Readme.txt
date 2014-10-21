@@ -1,5 +1,7 @@
+You can see the Dogecoin Timeline at DogecoinTimeline.com . 
 Actions and events in Dogecoin Timeline are real. You can visit, lurk, or get involved in the Dogecoin community 
-by going to Discuss.Dogecoin.com, Reddit.com/r/Dogecoin, or on Facebook, Twitter, or even Twitch. Shibes are multiplying and moonbound. 
+by going to Discuss.Dogecoin.com, Reddit.com/r/Dogecoin, or on Facebook, Twitter, or even Twitch. Shibes are multiplying and are moonbound. 
+
 
 
 
@@ -33,10 +35,23 @@ The "DogecoinHighlights" spreadsheet is 4move's take on what Issues are importan
 ------------------------------------------------------------------------------------
 
 To put timeline on your website Follow the steps for each timeline. 
-1.Event Log 
-2.Hightlights
+
+There is three different quick start Timeline to choose from. 
 
 
+
+--TIMELINE VERSIONS--
+Version 1: Day1 to Last day -- The Timelines will start from Day 1 of Dogecoin to the Last Day of Dogecoin. 
+Version 2: Last Day to Day1 -- The Timelines will start from the Last day of Dogecoin to the First Dogecoin.
+Version 3: Starting Slide   -- The Timelines will start from a certain Slide, managed by DogecoinTimeline.com
+
+
+
+
+--------------------------------VERSION 1------------------------------------
+
+
+**Start From Day1 to Last Day**
 
 
 
@@ -75,6 +90,148 @@ To put timeline on your website Follow the steps for each timeline.
 		Step 2: Go have a glass of water and relax, You're Done!
 
 
+--------------------------------VERSION 1------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------VERSION 2------------------------------------
+
+**Last Day to First Day**
+
+
+	1) Event Log [Start - 10/20/14] ---Copy iframe to HTML---
+
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&hash_bookmark=true' width='100%' height='100%' frameborder='0'></iframe>
+
+
+						--- 		---
+
+	
+	2) Highlights (according to 4moves) [Start - 10/20/14] ---Copy iframe to HTML---
+
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdHNhTlVnRXRPcnBUYXdMZURweXJhUnc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&hash_bookmark=true' width='100%' height='100%' frameborder='0'></iframe>
+
+
+
+
+
+
+--------------------------------VERSION 2------------------------------------
+
+
+
+
+
+
+
+
+
+
+--------------------------------VERSION 3------------------------------------
+
+
+**SET A STARTING SLIDE**
+
+--This Timeline requires a little bit more work on the part of the Developer. 
+--The starting Slide is maintained by the DogecoinTimeline website. 
+--To add this version to your website.
+	Step 1: Copy and Paste PHP into your HTML Site. 
+	Step 2: Copy a timeline's Iframe and Paste it into your HTML site. 
+	Step 3: Relax, you are done. Get yourself a cookie, and take your seat on the rocket. 
+
+
+
+
+
+
+---COPY The PHP below and above the DO NOT COPY lines------------------------
+---DO NOT COPY THIS LINE-----------------------------------------------------
+
+
+
+
+
+<?php 
+//Grab xml file
+$xmlfile = file_get_contents("http://DogecoinTimeline.com/DTimages/Slide.xml");
+//Convert to string. 
+$ob = simplexml_load_string($xmlfile);
+//Convert String to JSON Array
+$json = json_encode($ob);
+//Convert JSON Array back to PHP Array
+$array = json_decode($json, true);
+
+/* ------ The variable $array holds the starting slides for each timeline. 
+		  You can accessed the values by using PHP and 
+		  
+		  				echo $array["HighLights"];
+							
+								or 
+								
+						echo $array["EventLog"];
+						
+
+*/
+?>
+
+
+
+---DO NOT COPY THIS LINE---------------------------------------------------
+
+
+
+---COPY the Timelines you want.
+
+
+
+
+	1) Event Log [Start - 10/20/14] ---Copy iframe to HTML---
+
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&hash_bookmark=true&start_at_slide=<?php echo $array["HighLights"]; ?>' width='100%' height='100%' frameborder='0'></iframe>
+
+
+						--- 		---
+
+	
+	2) Highlights (according to 4moves) [Start - 10/20/14] ---Copy iframe to HTML---
+
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdHNhTlVnRXRPcnBUYXdMZURweXJhUnc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&hash_bookmark=true&start_at_slide=<?php echo $array["EventLog"]; ?>' width='100%' height='100%' frameborder='0'></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------VERSION 3------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -97,7 +254,7 @@ To put timeline on your website Follow the steps for each timeline.
 
 
 
-
+--
 
 
 
