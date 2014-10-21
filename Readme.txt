@@ -154,8 +154,7 @@ Version 3: Starting Slide   -- The Timelines will start from a certain Slide, ma
 
 
 
----COPY The PHP below and above the DO NOT COPY lines------------------------
----DO NOT COPY THIS LINE-----------------------------------------------------
+---STEP 1: COPY The PHP below ---- Php looks like this '<?php ...... ?>'----
 
 
 
@@ -186,11 +185,18 @@ $array = json_decode($json, true);
 
 
 
----DO NOT COPY THIS LINE---------------------------------------------------
 
 
 
----COPY the Timelines you want.
+
+
+
+
+
+
+
+---STEP 2: Copy a Timeline's Iframe to add that Timeline to your site. 
+
 
 
 
@@ -198,13 +204,26 @@ $array = json_decode($json, true);
 	1) Event Log [Start - 10/20/14] ---Copy iframe to HTML---
 
 
+
+
+
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdFktT0VURUhpWFJyZmhhM2ZKVUQzVHc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&hash_bookmark=true&start_at_slide=<?php echo $array["HighLights"]; ?>' width='100%' height='100%' frameborder='0'></iframe>
 
 
-						--- 		---
+
+
+
+
+
+
+
 
 	
 	2) Highlights (according to 4moves) [Start - 10/20/14] ---Copy iframe to HTML---
+
+
+
+
 
 
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0At3GjVZJ_LVrdHNhTlVnRXRPcnBUYXdMZURweXJhUnc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&hash_bookmark=true&start_at_slide=<?php echo $array["EventLog"]; ?>' width='100%' height='100%' frameborder='0'></iframe>
