@@ -1,4 +1,5 @@
-You can see the Dogecoin Timeline at DogecoinTimeline.com . 
+You can see the Dogecoin Timeline at DogecoinTimeline.com , hosting and Domain was provided by Pembo210!
+ 
 Actions and events in Dogecoin Timeline are real. You can visit, lurk, or get involved in the Dogecoin community 
 by going to Discuss.Dogecoin.com, Reddit.com/r/Dogecoin, or on Facebook, Twitter, or even Twitch. Shibes are multiplying and are moonbound. 
 
@@ -6,7 +7,7 @@ by going to Discuss.Dogecoin.com, Reddit.com/r/Dogecoin, or on Facebook, Twitter
 
 
 
-Support the Dogecoin Timeline @ DMhq1vJMkCbd3PH8sqRxT6vgy62cJMDu9R 
+Support 4moves's Dogecoin Innitiatives. @ DMhq1vJMkCbd3PH8sqRxT6vgy62cJMDu9R 
 
 
 
@@ -33,8 +34,6 @@ The "DogecoinHighlights" spreadsheet is 4move's take on what Issues are importan
 --Add TIMELINE TO WEBSITE-------------------------------------------------------------
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
-
-To put timeline on your website Follow the steps for each timeline. 
 
 There is three different quick start Timeline to choose from. 
 
